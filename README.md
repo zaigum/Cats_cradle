@@ -2,7 +2,7 @@
 
 A futuristic hand-tracking game with cyberpunk aesthetics featuring multiple game modes and real-time gesture recognition.
 
-![Game Preview](https://img.shields.io/badge/Status-Active-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[![Live Demo](https://img.shields.io/badge/🎮%20Live%20Demo-cats--cradle.netlify.app-00ffff?style=for-the-badge)](https://cats-cradle.netlify.app/) ![Game Preview](https://img.shields.io/badge/Status-Active-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 🌟 Features
 
@@ -34,6 +34,10 @@ A futuristic hand-tracking game with cyberpunk aesthetics featuring multiple gam
 - Silhouette detection
 - Real-time gesture recognition
 - Responsive design
+
+## 🌐 Live Demo
+
+👉 **[Play Now → https://cats-cradle.netlify.app/](https://cats-cradle.netlify.app/)**
 
 ## 🚀 Quick Start
 
